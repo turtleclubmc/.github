@@ -11,29 +11,6 @@
 
 ---
 
-## ⚙️ Nuestros proyectos
-
-### 🎥 Valde Roulette
-
-> _Actualmente en desarrollo_
-
-Un evento con formato de programa televisivo donde **100 jugadores divididos en 20 equipos de 5** intentan sobrevivir a una serie de juegos impredecibles ideados por **Valde Tutoriales**.
-
----
-
-### 💣 RushBomb
-
-Nuestro homenaje al clásico _TNT Tag_, reinventado con nuevos modos que pusieron a prueba a más de **100 jugadores** al mismo tiempo:
-
-- **Rush Bomb**
-- **Koth TNT**
-- **Golden Bomb**
-- **Pac-TNT-Man**
-
-Caos, velocidad y estrategia en su máxima expresión.
-
----
-
 ## 🔧 Lo que hacemos
 
 En Turtle Club nos apasiona crear experiencias únicas. Nuestro trabajo incluye:
