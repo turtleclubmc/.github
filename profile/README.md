@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://turtleclub.drygo.dev/images/turtle_aboutus.webp" alt="Turtle Club 🐢 Fundado en 2024" width="200"/>
+  <img src="https://turtleclub.drygo.dev/images/turtle_aboutus.webp" alt="Turtle Club 🐢 Fundado en 2024" width="100"/>
 </p>
 
 <h1 align="center">Turtle Club 🐢</h1>
